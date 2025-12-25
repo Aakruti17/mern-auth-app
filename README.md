@@ -59,10 +59,11 @@ npm start
 ```
 
 Create a .env file in the server folder:
-
+```
 MONGO_URI=your_mongodb_connection_string
 SESSION_SECRET=your_session_secret
 PORT=5000
+```
 
 ## 3️⃣ Frontend Setup
 ```
