@@ -44,7 +44,6 @@ This project follows **industry-standard authentication practices** with a clean
 - Express.js
 - MongoDB
 - Mongoose
-- bcrypt
 - JSON Web Token (JWT)
 
 ---
