@@ -14,7 +14,8 @@ This project follows **industry-standard authentication practices** with a clean
 - Protected Routes
 
 ### 🛡️ Security
-- Password hashing using bcrypt
+- Password hashing using ceaser cipher algorithum
+- Password Strength Checker
 - JWT / Session-based authentication
 - Email uniqueness validation
 - Secure API handling
