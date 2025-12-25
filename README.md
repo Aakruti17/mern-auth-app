@@ -90,9 +90,9 @@ npm start
 ## 👩‍💻 Author
 
 ### Aakruti
--MERN Stack Developer
--AI-Based Web Applications
--Portfolio Projects & Final-Year Systems
+- MERN Stack Developer
+- AI-Based Web Applications
+- Portfolio Projects & Final-Year Systems
 
 ---
 ## ⭐ Support
